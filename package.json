@@ -9,7 +9,7 @@
   },
   "repository ": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:observersaber/webpack_babel.git"
   },
   "author": "observer <observersaber@gmail.com>",
   "license": "ISC",
